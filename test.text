@@ -1,0 +1,500 @@
+    1  git commit -a -m "quotes report changes on group"
+    2  git pull
+    3  git push
+    4  git push
+    5  git commit -a -m "quotes report changes on group1"
+    6  git pull
+    7  git push
+    8  git pull
+    9  git push
+   10  git pull
+   11  git commit -a -m "quotes report test"
+   12  git push
+   13  git commit -a -m "quotes report controller"
+   14  git pull
+   15  git push
+   16  git commit -a -m "end date freeze after two days"
+   17  git git add .
+   18  git add .
+   19  git commit -a -m "end date freeze after two days"
+   20  git add .*
+   21  git status
+   22  git add.
+   23  git add
+   24  git add /cu
+   25  git status
+   26  git add custom/modules/Calls/views
+   27  git add custom/modules/Calls/views
+   28  git add custom/modules/Meetings/views/
+   29  git add custom/modules/Tasks/views/
+   30  git commit -a -m "end date freeze after two days"
+   31  git pull
+   32  git push
+   33  git pull
+   34  git commit -a -m "quotes report discount % changes"
+   35  git push
+   36  git push
+   37  git commit -a -m "call,meeting,task date freeze "
+   38  git status
+   39  git pull
+   40  git status
+   41  git push
+   42  git status
+   43  git reset --hard HEAD
+   44  git status
+   45  git reset --hard HEAD
+   46  git status
+   47  git log
+   48  git reset --hard HEAD^
+   49  git status
+   50  git log
+   51  git status
+   52  git reset --hard HEAD
+   53  git status
+   54  git pull
+   55  git status
+   56  git log
+   57  npm install
+   58  npm audit fix
+   59  npm audit fix --force
+   60  npm audit fix --force
+   61  git status
+   62  npm install
+   63  npm audit fix
+   64  cordova platform list
+   65  cordova platforms list
+   66  git status
+   67  git reset --hard HEAD
+   68  git status
+   69  cordova platforms list
+   70  cordova platforms ls
+   71  cordova platform ls
+   72  cordova run browser
+   73  cordova platforms list
+   74  git clone https://github.com/shriganeshbiz/scrmapp.git
+   75  ls
+   76  cd scrmapp/
+   77  cordova platform ls
+   78  cordova platforms ls
+   79  cordova plugin list
+   80  ng build --prod --base-href http://192.168.0.239/job_scheduling/ --deploy-url http://192.168.0.239/job_scheduling/
+   81  angular version
+   82  ng v
+   83  npm install -g @angular/cli
+   84  npm install -g @angular/cli
+   85  ng build --prod --base-href http://192.168.0.239/job_scheduling/ --deploy-url http://192.168.0.239/job_scheduling/
+   86  npm install
+   87  git reset --hard HEAD
+   88  git reset --hard HEAD
+   89  git status
+   90  git reset --hard HEAD
+   91  git status
+   92  git status
+   93  git status
+   94  git reset --hard HEAD
+   95  git status
+   96  git status
+   97  git reset --hard HEAD
+   98  git status
+   99  git status
+  100  git status
+  101  git status
+  102  git pull
+  103  git pull
+  104  git status
+  105  git add custom/Extension/modules/Meetings/Ext/Vardefs/_override_sugarfield_attendance_id_c.php 
+  106  git add custom/modules/Meetings/views/view.detail.php 
+  107  git commit -a -m "Attendance dropdown in meeting page and target report"
+  108  git status
+  109  git pull
+  110  git status
+  111  git commit -a -m "Attendance dropdown in meeting page and target report 2"
+  112  git status
+  113  git pull
+  114  git push
+  115  git status
+  116  git reset --hard HEAD
+  117  git reset --hard HEAD
+  118  git status
+  119  git add report/controllers/AttendanceController.php 
+  120  git add report/models/AttendanceModel.php 
+  121  git add report/views/attendance.php 
+  122  git status
+  123  git commit -a -m "Attendance report initial and sales target correction"
+  124  git status
+  125  git pull
+  126  git pull
+  127  git pull
+  128  git push
+  129  git commit -a -m "Attendance report initial and sales target correction"
+  130  git pull
+  131  git push
+  132  git status
+  133  git reset --hard origin/master
+  134  npm update
+  135  git reset --hard origin/master
+  136  ionic serve
+  137  npm update
+  138  npm audit fix
+  139  npm -v
+  140  ionic serve
+  141  ionic serve
+  142  git clone https://github.com/ozdemirburak/laravel-8-simple-cms.git
+  143  cd laravel-8-simple-cms/
+  144  composer install
+  145  php artisan cms:initialize --seed
+  146  php artisan cms:initialize --seed
+  147  php artisan serve
+  148  php artisan key:generate
+  149  npm install
+  150  npm run production
+  151  git clone https://github.com/shriganeshbiz/objobsch_backend.git
+  152  php artisan config:cache
+  153  php artisan make:auth
+  154  composer require yajra/laravel-oci8:^8
+  155  composer require yajra/laravel-oci8:^8
+  156  composer require yajra/laravel-oci8:^8
+  157  composer require yajra/laravel-oci8:^8
+  158  composer require yajra/laravel-oci8:^8
+  159  composer require yajra/laravel-oci8:^8
+  160  composer require yajra/laravel-oci8:^8
+  161  composer require yajra/laravel-oci8:
+  162  composer require yajra/laravel-oci8:^8
+  163  composer require yajra/laravel-oci8
+  164  php artisan make:controller PhotoController --resource
+  165  php artisan route:list
+  166  php artisan route:list
+  167  composer require yajra/laravel-oci8
+  168  composer require yajra/laravel-oci8: v8.0.1
+  169  composer require yajra/laravel-oci8:
+  170  composer require yajra/laravel-oci8:^8
+  171  composer require yajra/laravel-oci8:^8
+  172  composer require yajra/laravel-oci8:^7
+  173  php artisan make:controller PhotoController --resource
+  174  git status
+  175  git commit -a -m "Meetings date for attendance punch mapping"
+  176  git status
+  177  git pull
+  178  git push
+  179  git reset --hard origin/master
+  180  git status
+  181  git commit -a -m "new module for Expenses created on 12oct2020"
+  182  git add .
+  183  git status
+  184  git commit -a -m "new module for Expenses created on 12oct2020"
+  185  git pull
+  186  git clean -n
+  187  git status
+  188  php artisan config:cache
+  189  ssh -i ./aws_ec2_crm_key.pem ubuntu@34.192.172.211
+  190  git status
+  191  git reset --hard origin/master
+  192  git status
+  193  git pull
+  194  git status
+  195  composer update
+  196  php artisan migrate
+  197  php artisan migrate
+  198  php artisan migrate
+  199  php artisan migrate
+  200  git status
+  201  git status
+  202  git reset --hard origin/master
+  203  git status
+  204  git status
+  205  git pull
+  206  git pull
+  207  git commit -a -m "new module for Attendance created on 19nov2020"
+  208  git pull
+  209  git push
+  210  php artisan route:list
+  211  php artisan route:list
+  212  php artisan route:list
+  213  php artisan route:list
+  214  php artisan route:list
+  215  php artisan route:list
+  216  php artisan route:list
+  217  git status
+  218  git pull
+  219  git commit -a -m "new target report 24-12-2020"
+  220  git status
+  221  git commit -a -m "new target report 24-12-2020"
+  222  git pull
+  223  git push
+  224  git status
+  225  git pull
+  226  git status
+  227  git status
+  228  git commit -a -m "new target report 25-12-2020"
+  229  git status
+  230  git pull
+  231  git push
+  232  git commit -a -m "new report for target vs achieved"
+  233  git status
+  234  git add .
+  235  git status
+  236  git commit -a -m "new report for target vs achieved 24_12_2020"
+  237  git status
+  238  git pull
+  239  git pull
+  240  git push
+  241  composer require yajra/laravel-oci8
+  242  composer require yajra/laravel-oci8
+  243  composer require yajra/laravel-oci8
+  244  composer require yajra/laravel-oci8
+  245  composer require yajra/laravel-oci8
+  246  composer require yajra/laravel-oci8
+  247  composer require yajra/laravel-oci8
+  248  php artisan route:cache
+  249  php artisan list
+  250  php artisan route:list
+  251  php artisan view:clear
+  252  php artisan route:clear
+  253  php artisan clear:compiled
+  254  php artisan clear-compiled
+  255  php composer update
+  256  composer update
+  257  cd
+  258  e:
+  259  omposer create-project --prefer-dist laravel/laravel:^7.0 lottryticket
+  260  composer create-project --prefer-dist laravel/laravel:^7.0 lottryticket
+  261  laravel/ui
+  262  cd lottryticket/
+  263  laravel/ui
+  264  php artisan ui bootstrap --auth
+  265  composer require laravel/ui
+  266  composer require laravel/ui:^2.4
+  267  php artisan ui bootstrap --auth
+  268  cd ..
+  269  composer create-project --prefer-dist laravel/laravel:^7.0 dental
+  270  cd dental/
+  271  composer require laravel/ui:^2.4
+  272  composer fund
+  273  php artisan ui bootstrap --auth
+  274  php artisan make:controller RazorpayController
+  275  npm install bwip-js
+  276  npm install
+  277  cp settings.js.example settings.js
+  278  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  279  $ npm install
+  280  npm WARN deprecated ecstatic@1.4.1: https://github.com/jfhbrook/node-ecstatic/issues/259
+  281  npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+  282  npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+  283  npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+  284  npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+  285  > canvas@1.6.13 install E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas
+  286  > node-gyp rebuild
+  287  E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas>if not defined npm_config_node_gyp (node "C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild )
+  288  gyp ERR! find VS
+  289  gyp ERR! find VS msvs_version not set from command line or npm config
+  290  gyp ERR! find VS VCINSTALLDIR not set, not running in VS Command Prompt
+  291  gyp ERR! find VS could not use PowerShell to find Visual Studio 2017 or newer
+  292  gyp ERR! find VS looking for Visual Studio 2015
+  293  gyp ERR! find VS - not found
+  294  gyp ERR! find VS not looking for VS2013 as it is only supported up to Node.js 8
+  295  gyp ERR! find VS
+  296  gyp ERR! find VS **************************************************************
+  297  gyp ERR! find VS You need to install the latest version of Visual Studio
+  298  gyp ERR! find VS including the "Desktop development with C++" workload.
+  299  gyp ERR! find VS For more information consult the documentation at:
+  300  gyp ERR! find VS https://github.com/nodejs/node-gyp#on-windows
+  301  gyp ERR! find VS **************************************************************
+  302  gyp ERR! find VS
+  303  gyp ERR! configure error
+  304  gyp ERR! stack Error: Could not find any Visual Studio installation to use
+  305  gyp ERR! stack     at VisualStudioFinder.fail (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:121:47)
+  306  gyp ERR! stack     at findVisualStudio2013 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:74:16)
+  307  gyp ERR! stack     at VisualStudioFinder.findVisualStudio2013 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:351:14)
+  308  gyp ERR! stack     at findVisualStudio2015 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:70:14)
+  309  gyp ERR! stack     at regSearchKeys (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:372:16)
+  310  gyp ERR! stack     at regGetValue (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\util.js:54:7)
+  311  gyp ERR! stack     at C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\util.js:33:16
+  312  gyp ERR! stack     at ChildProcess.exithandler (child_process.js:301:5)
+  313  gyp ERR! stack     at ChildProcess.emit (events.js:189:13)
+  314  gyp ERR! stack     at maybeClose (internal/child_process.js:978:16)
+  315  gyp ERR! System Windows_NT 10.0.19041
+  316  gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\Babu\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+  317  gyp ERR! cwd E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas
+  318  gyp ERR! node -v v11.5.0
+  319  gyp ERR! node-gyp -v v5.1.0
+  320  gyp ERR! not ok
+  321  npm notice created a lockfile as package-lock.json. You should commit this file.
+  322  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\chokidar\node_modules\fsevents):
+  323  npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+  324  npm WARN bionet-datamatrix@0.0.1 No repository field.
+  325  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: canvas@1.6.13 (node_modules\canvas):
+  326  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: canvas@1.6.13 install: `node-gyp rebuild`
+  327  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Exit status 1
+  328  added 369 packages from 204 contributors and audited 372 packages in 303.235s
+  329  33 packages are looking for funding
+  330    run `npm fund` for details
+  331  found 5 vulnerabilities (3 moderate, 2 high)
+  332    run `npm audit fix` to fix them, or `npm audit` for details
+  333  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  334  $ cp settings.js.example settings.js
+  335  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  336  $
+  337  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  338  $ npm install
+  339  npm WARN deprecated ecstatic@1.4.1: https://github.com/jfhbrook/node-ecstatic/issues/259
+  340  npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+  341  npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+  342  npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+  343  npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+  344  > canvas@1.6.13 install E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas
+  345  > node-gyp rebuild
+  346  E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas>if not defined npm_config_node_gyp (node "C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild )
+  347  gyp ERR! find VS
+  348  gyp ERR! find VS msvs_version not set from command line or npm config
+  349  gyp ERR! find VS VCINSTALLDIR not set, not running in VS Command Prompt
+  350  gyp ERR! find VS could not use PowerShell to find Visual Studio 2017 or newer
+  351  gyp ERR! find VS looking for Visual Studio 2015
+  352  gyp ERR! find VS - not found
+  353  gyp ERR! find VS not looking for VS2013 as it is only supported up to Node.js 8
+  354  gyp ERR! find VS
+  355  gyp ERR! find VS **************************************************************
+  356  gyp ERR! find VS You need to install the latest version of Visual Studio
+  357  gyp ERR! find VS including the "Desktop development with C++" workload.
+  358  gyp ERR! find VS For more information consult the documentation at:
+  359  gyp ERR! find VS https://github.com/nodejs/node-gyp#on-windows
+  360  gyp ERR! find VS **************************************************************
+  361  gyp ERR! find VS
+  362  gyp ERR! configure error
+  363  gyp ERR! stack Error: Could not find any Visual Studio installation to use
+  364  gyp ERR! stack     at VisualStudioFinder.fail (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:121:47)
+  365  gyp ERR! stack     at findVisualStudio2013 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:74:16)
+  366  gyp ERR! stack     at VisualStudioFinder.findVisualStudio2013 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:351:14)
+  367  gyp ERR! stack     at findVisualStudio2015 (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:70:14)
+  368  gyp ERR! stack     at regSearchKeys (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\find-visualstudio.js:372:16)
+  369  gyp ERR! stack     at regGetValue (C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\util.js:54:7)
+  370  gyp ERR! stack     at C:\Users\Babu\AppData\Roaming\npm\node_modules\npm\node_modules\node-gyp\lib\util.js:33:16
+  371  gyp ERR! stack     at ChildProcess.exithandler (child_process.js:301:5)
+  372  gyp ERR! stack     at ChildProcess.emit (events.js:189:13)
+  373  gyp ERR! stack     at maybeClose (internal/child_process.js:978:16)
+  374  gyp ERR! System Windows_NT 10.0.19041
+  375  gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\Babu\\AppData\\Roaming\\npm\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+  376  gyp ERR! cwd E:\xampp7\htdocs\datamatrix-scanner-master\datamatrix-scanner-master\node_modules\canvas
+  377  gyp ERR! node -v v11.5.0
+  378  gyp ERR! node-gyp -v v5.1.0
+  379  gyp ERR! not ok
+  380  npm notice created a lockfile as package-lock.json. You should commit this file.
+  381  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\chokidar\node_modules\fsevents):
+  382  npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+  383  npm WARN bionet-datamatrix@0.0.1 No repository field.
+  384  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: canvas@1.6.13 (node_modules\canvas):
+  385  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: canvas@1.6.13 install: `node-gyp rebuild`
+  386  npm WARN optional SKIPPING OPTIONAL DEPENDENCY: Exit status 1
+  387  added 369 packages from 204 contributors and audited 372 packages in 303.235s
+  388  33 packages are looking for funding
+  389    run `npm fund` for details
+  390  found 5 vulnerabilities (3 moderate, 2 high)
+  391    run `npm audit fix` to fix them, or `npm audit` for details
+  392  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  393  $ cp settings.js.example settings.js
+  394  Babu@DESKTOP-PI8BNJN MINGW64 /e/xampp7/htdocs/datamatrix-scanner-master/datamatrix-scanner-master
+  395  $
+  396  npm run build
+  397  npm run build
+  398  npm rebuild @tensorflow/tfjs-node --build-from-source
+  399  npm run build
+  400  npm install canvas
+  401  npm audit fix
+  402  npm audit fix --force
+  403  npm run build
+  404  node
+  405  node -version
+  406  node -v
+  407  node node-canvas-fallback
+  408  npm install node-canvas-fallback
+  409  npm install
+  410  npm fund
+  411  npm update
+  412  npm run build
+  413  git status
+  414  git pull
+  415  git status
+  416  git status
+  417  git pull
+  418  composer update
+  419  composer update
+  420  composer install
+  421  composer update
+  422  php artisan clear-compiled
+  423  git status
+  424  git pull
+  425  composer install
+  426  composer dump-autoload
+  427  composer update --no-scripts
+  428  composer install
+  429  composer install
+  430  .\vendor\bin\upgrade-carbon
+  431  composer install
+  432  php artisan config:cache
+  433  git status
+  434  composer create-project --prefer-dist laravel/laravel:^7.0 megawinhrmodule
+  435  cd megawinhrmodule/
+  436  composer require laravel/ui:^2.4
+  437  php artisan ui bootstrap --auth
+  438  php artisan config:cache
+  439  composer install
+  440  git commit -a -m "Laravel Version chnaged to 8 to 7"
+  441  cd ..
+  442  cd MegawinHR
+  443  git status
+  444  git add .
+  445  git status
+  446  git commit -a -m "Laravel Version chnaged to 8 to 7"
+  447  git pull
+  448  git clone https://github.com/Shameer7090/MegawinHR.git
+  449  composer create-project --prefer-dist laravel/laravel:^7.0 megawinhr
+  450  composer install
+  451  php artisan config:cache
+  452  composer require laravel/ui:^2.4
+  453  composer require laravel/ui
+  454  php artisan ui bootstrap --auth
+  455  php artisan key:generate
+  456  php artisan config:cache
+  457  git status
+  458  git add .
+  459  git status
+  460  git commit -a -m "quotes product details on 10_may_2021"
+  461  git pull
+  462  git status
+  463  git push
+  464  git commit -a -m "quotes product details on 11_may_2021"
+  465  git pull
+  466  git push
+  467  git status
+  468  git commit -a -m "quotes product details on 11_may_2021_1"
+  469  git status
+  470  git pull
+  471  git pull
+  472  git push
+  473  git commit -a -m "quotes product details on 11_may_2021_2"
+  474  git pull
+  475  git push
+  476  git commit -a -m "quotes product details on 11_may_2021_2"
+  477  git pull
+  478  git push
+  479  git push
+  480  git commit -a -m "quotes product details on 11_may_2021_3"
+  481  git pull
+  482  git push
+  483  git commit -a -m "quotes product details on 11_may_2021_3"
+  484  git pull
+  485  git push
+  486  git pull
+  487  git commit -a -m "quotes product details on 11_may_2021_4"
+  488  git commit -a -m "enquiry report on 11_may_2021_3"
+  489  git pull
+  490  git push
+  491  git commit -a -m "enquiry report on 11_may_2021_4"
+  492  git pull
+  493  git push
+  494  git commit -a -m "Target report on 12_may_2021"
+  495  git pull
+  496  git push
+  497  git commit -a -m "Target report on 12_may_2021"
+  498  git pull
+  499  git push
+  500  history > test.text
