@@ -30,6 +30,11 @@ Route::post('login', 'Auth\LoginController@postLogin');
 Route::get('login/logout', 'Auth\LoginController@logout');
 Route::get('/callback', 'Auth\LoginController@callback');
 
+Route::resource('teams', 'teamController');
+Route::get('teams/delete/{id}', 'teamController@destroy');
+
+Route::resource('supervisors', 'supervisorController');
+Route::get('supervisors/delete/{id}', 'supervisorController@destroy');
 
 Route::get('emailsingin', 'SigninController@getIndex')->name('emailsingin.index');
 Route::get('attendance', 'AttendanceController@getIndex')->name('attendance.index');
