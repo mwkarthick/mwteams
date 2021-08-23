@@ -5,16 +5,10 @@
                         <div class="color-block bgm-lightgreen p-5">
                             <span class="color">Active</span>
                         </div>
-                        <div class="p-5">
-                            
-                            @if($baseName != 'servicespareregister' || $baseName != 'visitplan' || $baseName != 'pendingvisit' || $baseName != 'product' || $baseName != 'email')
+                        <div class="p-5">                            
                             <a href="{{url($baseName)}}/create" target="_self">
-                                <button class="btn bgm-lime btn-icon waves-effect waves-circle waves-float"><i class="zmdi zmdi-plus"></i></button>                                   
+                                <button class="btn bgm-lime btn-icon waves-effect waves-circle waves-float"><i class="zmdi zmdi-plus"></i></button>
                             </a>
-                            @endif
-                            @if($baseName == 'product')
-                                <button class="btn bgm-orange btn-icon waves-effect waves-circle waves-float"><i class="zmdi zmdi-refresh"></i></button>                                   
-                            @endif
                         </div>
                     </div>
                     <div class="text-center">
@@ -49,18 +43,9 @@
                                     @include($basePath . '.' . $baseName .'_list')
                                     
                                 <div class="pti-footer lnk-wh-inh">
-
-                                    @if($baseName == 'organisation')
-                                        <a href="{{url($baseName)}}/edit/{{$item->id}}" target="_self" class="bgm-orange"><i class="zmdi zmdi-edit"></i></a>
-                                        <a href="{{url($baseName)}}/show/{{$item->id}}" target="_self" class="bgm-lightblue"><i class="zmdi zmdi-view-web"></i></a>
-                                    @elseif($baseName == 'uom')
-                                        <a href="{{url($baseName)}}/edit/{{$item->id}}" target="_self" class="bgm-orange"><i class="zmdi zmdi-edit"></i></a>
-                                        <a href="{{url($baseName)}}/delete/{{$item->id}}" target="_self" class="bgm-red"><i class="zmdi zmdi-close"></i></a>
-                                    @else
                                         <a href="{{url($baseName)}}/edit/{{$item->id}}" target="_self" class="bgm-orange"><i class="zmdi zmdi-edit"></i></a>
                                         <a href="{{url($baseName)}}/delete/{{$item->id}}" target="_self" class="bgm-red"><i class="zmdi zmdi-close"></i></a>
                                         <a href="{{url($baseName)}}/show/{{$item->id}}" target="_self" class="bgm-lightblue"><i class="zmdi zmdi-view-web"></i></a>
-                                    @endif
                                 </div>
                             </div>
                         </div>

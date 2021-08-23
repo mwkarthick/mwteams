@@ -208,7 +208,6 @@
                                         </a-->
                                         
                                     </div>
-                                    <a class="lv-footer" href="{{ route('email.index') }}">View All</a>
                                 </div>
                             </div>
                         </li>

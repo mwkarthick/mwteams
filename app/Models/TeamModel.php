@@ -25,6 +25,5 @@ class TeamModel extends BaseModel {
     public function supervisorslist()
     {
         return $this->hasMany('App\Models\TeamSupervisorModel','team_id','id');
-    }    
-    
+    }
 }

@@ -43,12 +43,12 @@
                                 
                                 if($.trim(row.status1) == "Active")
                                 {
-                                    var cmd = "<a href=\"{{url($basePath)}}/"+row.id+"/edit\" target=\"_self\" class=\"btn bgm-orange btn-icon waves-effect waves-circle\"><i class=\"zmdi zmdi-edit\"></i></a>";
-                                
+                                    var cmd = "<a href=\"{{url($basePath)}}/"+row.id+"/edit\" target=\"_self\" class=\"btn bgm-orange btn-icon waves-effect waves-circle\"><i class=\"zmdi zmdi-edit\"></i></a>"+
+                                            "<a href=\"{{url($basePath)}}/"+row.id+"\" target=\"_self\" class=\"btn bgm-lightblue btn-icon waves-effect waves-circle\"><i class=\"zmdi zmdi-view-web\"></i></a>";   
                                 }
                                 else
                                 {
-                                    var cmd = "<a href=\"{{url($basePath)}}/delete/"+row.id+"\" target=\"_self\" class=\"btn btn-danger btn-icon waves-effect waves-circle\"><i class=\"zmdi zmdi-close\"></i></a>";                                
+                                    var cmd = "<a href=\"{{url($basePath)}}/delete/"+row.id+"\" target=\"_self\" class=\"btn btn-danger btn-icon waves-effect waves-circle\"><i class=\"zmdi zmdi-close\"></i></a>";
                                 }
                                 
                                 return cmd; 

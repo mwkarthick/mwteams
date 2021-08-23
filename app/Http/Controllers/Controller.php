@@ -15,7 +15,6 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     
     public $created_by = true;
-
     
     public function __construct()
     {
