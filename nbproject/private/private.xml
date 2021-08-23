@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/XAMPPWin10/htdocs/mwteams/app/Models/TeamSupervisor.php</file>
-            <file>file:/E:/XAMPPWin10/htdocs/mwteams/app/Models/TeamModel.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/app/Models/TeamTargetModel.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/resources/views/teamtarget/teamtarget.blade.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/resources/views/_layouts/_partials/left_menu.blade.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/routes/web.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/resources/views/teamtarget/teamtarget_add.blade.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/resources/views/teams/teams_add.blade.php</file>
+            <file>file:/E:/xampp7/htdocs/mwteams/app/Http/Controllers/TeamTargetController.php</file>
         </group>
     </open-files>
 </project-private>

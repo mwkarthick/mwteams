@@ -36,6 +36,18 @@ Route::get('teams/delete/{id}', 'teamController@destroy');
 Route::resource('supervisors', 'supervisorController');
 Route::get('supervisors/delete/{id}', 'supervisorController@destroy');
 
+Route::resource('teamtarget', 'TeamTargetController');
+Route::post('teamtarget/readcsv', 'TeamTargetController@readcsv');
+Route::post('teamtarget/uploadcsv', 'TeamTargetController@uploadcsv');
+
+Route::resource('targetpurchase', 'TargetPurchaseController');
+Route::post('targetpurchase/readcsv', 'TargetPurchaseController@readcsv');
+Route::post('targetpurchase/uploadcsv', 'TargetPurchaseController@uploadcsv');
+
+Route::resource('targetproduction', 'TargetProductionController');
+Route::post('targetproduction/readcsv', 'TargetProductionController@readcsv');
+Route::post('targetproduction/uploadcsv', 'TargetProductionController@uploadcsv');
+
 Route::get('emailsingin', 'SigninController@getIndex')->name('emailsingin.index');
 Route::get('attendance', 'AttendanceController@getIndex')->name('attendance.index');
 
