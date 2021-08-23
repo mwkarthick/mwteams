@@ -11,7 +11,16 @@
                     </li>
                     <li >
                         <a class="@yield('page_supervisors_li_cls')" href="{{ route('supervisors.index') }}"><i class="zmdi zmdi-accounts"></i>&nbsp;&nbsp; SuperVisor </a>
-                    </li>                    
+                    </li> 
+                    <li >
+                        <a class="@yield('page_teamtarget_li_cls')" href="{{ route('teamtarget.index') }}"><i class="zmdi zmdi-accounts"></i>&nbsp;&nbsp; Team Target </a>
+                    </li>
+                    <li >
+                        <a class="@yield('page_targetpurchase_li_cls')" href="{{ route('targetpurchase.index') }}"><i class="zmdi zmdi-accounts"></i>&nbsp;&nbsp; Target Purchase</a>
+                    </li>
+                    <li >
+                        <a class="@yield('page_targetproduction_li_cls')" href="{{ route('targetproduction.index') }}"><i class="zmdi zmdi-accounts"></i>&nbsp;&nbsp; Target Production</a>
+                    </li>
                 </ul>
             </li>            
         </ul>
